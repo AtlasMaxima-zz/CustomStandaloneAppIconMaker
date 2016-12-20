@@ -15,7 +15,9 @@ Custom standalone application icon maker helps you create standalone application
 
 1. Download the zip file
 2. Open up your terminal or command console
-3. Run Python icnsScript.py
+3. Cd into where the file downloaded un-zipped file is
+4. Cd into the folder
+5. Run Python icnsScript.py
 
 ## How to use the program
 
